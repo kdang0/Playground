@@ -1,0 +1,10 @@
+.boxes{
+    background-color: var(--color);
+    border-radius: 15px;
+    width:100px;
+    height:100px;
+}
+
+h1{
+    color:brown;
+}
